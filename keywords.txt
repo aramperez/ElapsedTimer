@@ -1,6 +1,6 @@
-ElapsedTimer KEYWORD1
-start KEYWORD2
-stop KEYWORD2
-isActive KEYWORD2
-timedOut KEYWORD2
-remainingMs KEYWORD2
+ElapsedTimer	KEYWORD1
+start	KEYWORD2
+stop	KEYWORD2
+isActive	KEYWORD2
+timedOut	KEYWORD2
+remainingMs	KEYWORD2
